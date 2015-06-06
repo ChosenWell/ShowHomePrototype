@@ -1,0 +1,118 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 5.7 5.7.0.4228 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl LP_house_white
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.9 0.9 0.9
+illum 2
+Ns 2
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl LP_house_stairs_01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.9 0.9 0.9
+illum 2
+Ns 2
+map_Kd 14_lp_house_stairs_diff.jpg
+map_bump 13_lp_house_stairs_01_bump.jpg
+bump 13_lp_house_stairs_01_bump.jpg
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl LP_house_stairs_02
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.9 0.9 0.9
+illum 2
+Ns 2
+map_Kd 11_lp_house_stairs_02_diff.jpg
+map_bump 10_lp_house_stairs_02_bump.jpg
+bump 10_lp_house_stairs_02_bump.jpg
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl LP_house_wall
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.9 0.9 0.9
+illum 2
+Ns 2
+map_Kd 02_lp_house_wall_diff.jpg
+map_bump 01_lp_house_wall_bump.jpg
+bump 01_lp_house_wall_bump.jpg
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl LP_house_roof_01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.9 0.9 0.9
+illum 2
+Ns 2
+map_Kd 05_lp_house_roof_01_diff.jpg
+map_bump 04_lp_house_roof_01_bump.jpg
+bump 04_lp_house_roof_01_bump.jpg
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl LP_house_roof_02
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.9 0.9 0.9
+illum 2
+Ns 2
+map_Kd 07_lp_house_roof_02_diff.jpg
+map_bump 06_lp_house_roof_02_bump.jpg
+bump 06_lp_house_roof_02_bump.jpg
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl LP_house_roof_tile
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.9 0.9 0.9
+illum 2
+Ns 2
+map_Kd 09_lp_house_roof_tile_diff.jpg
+map_bump 08_lp_house_roof_tile_bump.jpg
+bump 08_lp_house_roof_tile_bump.jpg
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 

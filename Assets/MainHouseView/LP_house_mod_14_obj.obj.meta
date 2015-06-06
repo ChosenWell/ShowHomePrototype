@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 30867ae7af04669408f2c1c425a9710c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: LP_house02
+    100002: LP_house04
+    100004: LP_house06
+    100006: LP_house_01
+    100008: LP_house_02
+    100010: LP_house_03
+    100012: LP_house_04
+    100014: LP_house_05
+    100016: LP_house_06
+    100018: LP_house_07
+    100020: LP_house_08
+    100022: LP_house_09
+    100024: LP_house_10
+    100026: LP_house_12
+    100028: //RootNode
+    100030: LP_house_wall
+    400000: LP_house02
+    400002: LP_house04
+    400004: LP_house06
+    400006: LP_house_01
+    400008: LP_house_02
+    400010: LP_house_03
+    400012: LP_house_04
+    400014: LP_house_05
+    400016: LP_house_06
+    400018: LP_house_07
+    400020: LP_house_08
+    400022: LP_house_09
+    400024: LP_house_10
+    400026: LP_house_12
+    400028: //RootNode
+    400030: LP_house_wall
+    2300000: LP_house02
+    2300002: LP_house04
+    2300004: LP_house06
+    2300006: LP_house_01
+    2300008: LP_house_02
+    2300010: LP_house_03
+    2300012: LP_house_04
+    2300014: LP_house_05
+    2300016: LP_house_06
+    2300018: LP_house_07
+    2300020: LP_house_08
+    2300022: LP_house_09
+    2300024: LP_house_10
+    2300026: LP_house_12
+    2300028: LP_house_wall
+    3300000: LP_house02
+    3300002: LP_house04
+    3300004: LP_house06
+    3300006: LP_house_01
+    3300008: LP_house_02
+    3300010: LP_house_03
+    3300012: LP_house_04
+    3300014: LP_house_05
+    3300016: LP_house_06
+    3300018: LP_house_07
+    3300020: LP_house_08
+    3300022: LP_house_09
+    3300024: LP_house_10
+    3300026: LP_house_12
+    3300028: LP_house_wall
+    4300000: LP_house02
+    4300002: LP_house04
+    4300004: LP_house06
+    4300006: LP_house_01
+    4300008: LP_house_02
+    4300010: LP_house_03
+    4300012: LP_house_04
+    4300014: LP_house_05
+    4300016: LP_house_06
+    4300018: LP_house_07
+    4300020: LP_house_08
+    4300022: LP_house_09
+    4300024: LP_house_10
+    4300026: LP_house_12
+    4300028: LP_house_wall
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
