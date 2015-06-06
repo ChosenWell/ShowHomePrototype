@@ -131,7 +131,7 @@ public class DrawPath : MonoBehaviour {
 		// get community coordinates
 		var assetsPath = Application.streamingAssetsPath;
 		assetsPath = Directory.GetParent (assetsPath).FullName;
-		string coordDir = Path.Combine (assetsPath, "Coord Files");
+		string coordDir = Path.Combine (assetsPath, @"Maps\Coord Files");
 		string coordFilePath = Path.Combine (coordDir, coordFileName);
 		
 		//read  polygon

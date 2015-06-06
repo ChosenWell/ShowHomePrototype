@@ -1,10 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SceneManager.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Maps\Scripts\DrawPath.cs">
     <Files>
-      <File FileName="Assets\Scripts\DrawPath.cs" Line="80" Column="58" />
-      <File FileName="Assets\Scripts\LoadCoordinateFromTextFile.cs" Line="64" Column="4" />
-      <File FileName="Assets\Scripts\SceneManager.cs" Line="72" Column="4" />
+      <File FileName="Assets\Maps\Scripts\SceneManager.cs" Line="65" Column="54" />
+      <File FileName="Assets\Maps\Scripts\DrawPath.cs" Line="135" Column="65" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
